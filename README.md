@@ -9,3 +9,5 @@ System ten został napisany w Delphi i pracuje na bazie SQL Firebird. Mimo swoje
 dla zaspokojenia indywidualnych potrzeb klientów, np. automatycznej komunikacji z systemami zewnętrznymi. 
 Duże możliwości rozbudowy funkcjonalności programu dało dodanie przez producenta obsługi wtyczek czyli procedur w Pascalu które mogą być 
 uruchamiane np. podczas otwierania konkretnego okna, dodawać w nim kolejne pola edycyjne, komunikować się z bazą danych itd.
+
+Zapraszam do pobierania, opisy są w poszczególnych folderach.
