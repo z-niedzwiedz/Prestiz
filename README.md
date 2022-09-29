@@ -1,4 +1,5 @@
-# Prestiz
+# ![Zrzut ekranu](https://raw.githubusercontent.com/z-niedzwiedz/Prestiz/master/BossPrestiz.PNG)
+
 ## Dodatki do systemu ERP Boss Prestiż/Streamsoft Prestiż
 
 Producent systemu zintegrowanego SM-Boss podejmował próby zaoferowania krajowym MSP systemu stworzonego jako aplikacja Windows 
