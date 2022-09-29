@@ -1,0 +1,1 @@
+net stop "firebird guardian - defaultinstance"
